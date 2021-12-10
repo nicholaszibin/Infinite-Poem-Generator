@@ -166,8 +166,3 @@ void gen_num(){
   o = int(random(Nominative.size())); 
 }
 
-//final String drivingMe = "Hié◊";
-//final int[] medicine = int( drivingMe.toCharArray() );
-
-//println(medicine);
-//println(char(medicine[9674]));  
